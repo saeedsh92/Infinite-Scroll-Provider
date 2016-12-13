@@ -1,8 +1,8 @@
 # Infinite-Scroll-Provider
 easy and very light library used to provide infinite scroll functionality for recycler views
-
-<img src="https://github.com/saeedsh92/Infinite-Scroll-Provider/blob/master/Screenshot_1481109328.png" width="350">
-<img src="https://github.com/saeedsh92/Infinite-Scroll-Provider/blob/master/Screenshot_1481109514.png" width="350">
+<img src="https://github.com/saeedsh92/Infinite-Scroll-Provider/blob/master/infinite-scroll-provider-demo.jpg?raw=false" width="700">
+<img src="https://github.com/saeedsh92/Infinite-Scroll-Provider/blob/master/Screenshot_1481109328.png?raw=false" width="350">
+<img src="https://github.com/saeedsh92/Infinite-Scroll-Provider/blob/master/Screenshot_1481109514.png?raw=false" width="350">
 
 ## How to download
 ### Gradle: 
